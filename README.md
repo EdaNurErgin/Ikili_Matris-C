@@ -9,12 +9,12 @@ Adanın toplam alanını bulmak için bir tanımlama yaptım.
 Programın sonunda ise bir if-else yapısı kullandım.Burada adamın” Sadece denizden mi?” oluştuğunu veya “Ada  kara içeriyor mu ?”sorgusunu oluşturdum. Adamın kara içermesi durumunda doğru if içerisine girerek adanın alan toplamının yazılmasını sağladım.</p>
 
 <h3>Kodun doğru çalıştığını nasıl test edeceğiz? :</h3>
-<p>Kodumun doğru çalıştığını test etmek için şunlara dikkat ediniz :
-1.Matrise değer verirken 1 veya 0 veri girişinde bulunmak
-2-Matrise 1 veya 0 dışında veri girişinde bulunulduğunda programın hata verip vermediğini denemek.
-3-Matrise girilen 1 değerlerinin karaya , 0 değerlerinin denize işaret edip etmediğine bakmak.
-4.Adanın toplam alanın tanımlamasının doğru olduğunu anlamak için matrise rastgele değerler vererek toplam alanını bulmak.
-5-Matrisimize sadece 0 değer vererek programın ada alanından veya karadan bahsedip bahsetmediğini kontrol etmek.</p>
+<p>Kodumun doğru çalıştığını test etmek için şunlara dikkat ediniz :</p>
+<p>1.Matrise değer verirken 1 veya 0 veri girişinde bulunmak</p>
+<p>2-Matrise 1 veya 0 dışında veri girişinde bulunulduğunda programın hata verip vermediğini denemek.</p>
+<p>3-Matrise girilen 1 değerlerinin karaya , 0 değerlerinin denize işaret edip etmediğine bakmak.</p>
+<p>4.Adanın toplam alanın tanımlamasının doğru olduğunu anlamak için matrise rastgele değerler vererek toplam alanını bulmak.</p>
+<p>5-Matrisimize sadece 0 değer vererek programın ada alanından veya karadan bahsedip bahsetmediğini kontrol etmek.</p>
 
 <p>Programı hazırlayan , katkıda bulunanlar ,yararlanılan kaynaklar:
 Eda Nur Ergin-1220505032
