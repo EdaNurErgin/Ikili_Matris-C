@@ -16,7 +16,7 @@ Programın sonunda ise bir if-else yapısı kullandım.Burada adamın” Sadece 
 <p>4.Adanın toplam alanın tanımlamasının doğru olduğunu anlamak için matrise rastgele değerler vererek toplam alanını bulmak.</p>
 <p>5-Matrisimize sadece 0 değer vererek programın ada alanından veya karadan bahsedip bahsetmediğini kontrol etmek.</p>
 
-<p>Programı hazırlayan , katkıda bulunanlar ,yararlanılan kaynaklar:
-Eda Nur Ergin-1220505032
-Programı yazarken yararlanılan yazılı kaynak yoktur.
-</p>
+<h4>Programı hazırlayan , katkıda bulunanlar ,yararlanılan kaynaklar:</h4>
+<p>Eda Nur Ergin-1220505032</p>
+<p>Programı yazarken yararlanılan yazılı kaynak yoktur.</p>
+
